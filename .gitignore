@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Log files
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Environment variables file
+.env
+
+# Project-specific files (modify as needed)
+*.yaml
+*.txt
